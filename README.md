@@ -13,7 +13,7 @@ Applied descriptive, diagnostic, predictive, and prescriptive analytical techniq
 
 Identified key trends, performance indicators, and improvement opportunities based on data.
 
-🛠️ Tools & Technologies
+Tools & Technologies
 
 Excel – Data cleaning & preprocessing
 
