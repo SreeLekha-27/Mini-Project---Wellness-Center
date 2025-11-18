@@ -11,7 +11,7 @@ This mini project focuses on analyzing operational and staffing data from a Well
 - Interactive dashboards built in Power BI  
 - Descriptive, diagnostic, predictive & prescriptive analytics  
 - Insights into staffing gaps, service performance, and improvement areas  
-- Clear visual storytelling with charts, KPIs, and filters  
+- Clear visual storytelling with charts and filters  
 
 ---
 
@@ -21,7 +21,6 @@ The dataset contains:
 - Operational metrics  
 - Service categories  
 - City/Location information  
-- Performance indicators  
 
 Data was preprocessed and transformed into **Fact and Dimension tables** for better modeling and dashboard creation.
 
@@ -49,9 +48,8 @@ Data was preprocessed and transformed into **Fact and Dimension tables** for bet
 
 ### **4️. Dashboard Creation**
 - Bar, column, line & pie charts  
-- KPIs and cards  
-- Drill-down & slicers  
-- Bookmarks for navigation  
+- cards  
+- slicers  
 
 ### **5️. Insight Generation & Recommendations**
 
