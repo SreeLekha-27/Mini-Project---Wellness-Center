@@ -12,7 +12,6 @@ Insights into staffing gaps, service performance, and improvement areas
 Clear visual storytelling with charts, KPIs, and filters
 
 Dataset Details
-
 The dataset contains:
 
 Staffing data
@@ -22,13 +21,12 @@ City/Location information
 Performance indicators
 Data was preprocessed and transformed into Fact and Dimension tables for better modeling and dashboard creation.
 
-Tools & Technologies
+Tools
 
-Microsoft Excel – Data cleaning, transformation, preprocessing
+Microsoft Excel – Data cleaning, transformation, and preprocessing
 Power BI – Report modeling, DAX calculations, and interactive dashboards
 
 Project Workflow
-
 Data Collection
 Preprocessing in Excel
  Remove duplicates
@@ -63,3 +61,7 @@ Building structured Power BI data models
 Designing interactive dashboards
 Converting raw data into meaningful insights
 Applying different analytical methods (descriptive, diagnostic, predictive, prescriptive)
+
+Conclusion
+
+In this project, clean the data, build dashboards, and find the real gaps in staffing and performance at the Wellness Center. By using Excel and Power BI, I was able to clearly understand what’s happening, why it’s happening, and where improvements are needed. Overall, the analysis provides a clear direction for improved decision-making and more effective resource planning.
